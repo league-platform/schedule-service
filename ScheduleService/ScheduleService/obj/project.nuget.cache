@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "g9eyORBIZbA=",
+  "success": true,
+  "projectFilePath": "/Users/danilo/Documents/Universidad/Distribuida/Proyecto Final/Repositories/schedule-service/ScheduleService/ScheduleService/ScheduleService.csproj",
+  "expectedPackageFiles": [
+    "/Users/danilo/.nuget/packages/microsoft.aspnetcore.openapi/9.0.6/microsoft.aspnetcore.openapi.9.0.6.nupkg.sha512",
+    "/Users/danilo/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
